@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<extensions>
+  <videoExtensions>
+    <videoExtension extension="avi" />
+    <videoExtension extension="mp4" />
+    <videoExtension extension="mkv" />
+    <videoExtension extension="wmv" />
+    <videoExtension extension="mov" />
+    <videoExtension extension="divx" />
+    <videoExtension extension="xvid" />
+    <videoExtension extension="mpeg" />
+    <videoExtension extension="mpg" />
+  </videoExtensions>
+  
+  <audioExtensions>
+    <audioExtension extension="mp3" />
+    <audioExtension extension="wma" />
+    <audioExtension extension="wav" />
+    <audioExtension extension="ogg" />
+    <audioExtension extension="flac" />
+    <audioExtension extension="m4a" />
+    <audioExtension extension=".aac" />
+  </audioExtensions>
+  
+  <imageExtensions>
+    <imageExtension extension="jpg" />
+    <imageExtension extension="gif" />
+    <imageExtension extension="tif" />
+    <imageExtension extension="tiff" />
+    <imageExtension extension="jpeg" />
+    <imageExtension extension="gif" />
+    <imageExtension extension="png" />
+  </imageExtensions>
+</extensions>
